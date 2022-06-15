@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Block1Library", "Block1Libr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABCPayroll", "ABCPayroll\ABCPayroll.csproj", "{45EDFA20-6352-4E8B-A034-0FCD6C60CB2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingAndLoops", "BranchingAndLoops\BranchingAndLoops.csproj", "{AED50322-4769-4D0A-8FC8-EB0AADBCF6F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BranchingAndLoops", "BranchingAndLoops\BranchingAndLoops.csproj", "{AED50322-4769-4D0A-8FC8-EB0AADBCF6F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block3", "Block3\Block3.csproj", "{10456FE6-3337-4E10-AA35-F974BC433BA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Block3", "Block3\Block3.csproj", "{10456FE6-3337-4E10-AA35-F974BC433BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenges", "CodeChallenges\CodeChallenges.csproj", "{45CE2A25-2FE6-4F0B-A7A5-341B52CE4139}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{10456FE6-3337-4E10-AA35-F974BC433BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10456FE6-3337-4E10-AA35-F974BC433BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10456FE6-3337-4E10-AA35-F974BC433BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45CE2A25-2FE6-4F0B-A7A5-341B52CE4139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CE2A25-2FE6-4F0B-A7A5-341B52CE4139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CE2A25-2FE6-4F0B-A7A5-341B52CE4139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CE2A25-2FE6-4F0B-A7A5-341B52CE4139}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
