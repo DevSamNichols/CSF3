@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CodeChallenges.Program</StartupObject>
+    <StartupObject>CodeChallenges.CodeChallenges2</StartupObject>
   </PropertyGroup>
 
 </Project>
